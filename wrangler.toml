@@ -4,8 +4,8 @@ compatibility_date = "2024-01-01"
 
 # KV 存储
 [[kv_namespaces]]
-binding = "SUB_KV"
-id = "ce19b8b67a0c4bddac8cde355b2a762c"
+binding = "SUBSCRIPTIONS_KV"
+id = "75aedacf1bb746c2a59cf0e8eeeceb6b"
 
 # 每天早上8点执行定时任务
 [triggers]
